@@ -1,16 +1,37 @@
-## Hi there 👋
+# PREM015
 
-<!--
-**PREM015/PREM015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Profile Views
+![](https://komarev.com/ghpvc/?username=PREM015&color=blue)
 
-Here are some ideas to get you started:
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PREM015&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I am a **Full-Stack Developer**, **Gamer**, and **Traveller**, commonly found coding in **JavaScript** and **Python**.
+- 💻 Experienced in **Full-Stack Development** (JavaScript, React, Node.js, Express, MongoDB, PostgreSQL).
+- 🐍 Passionate about **Python** (Django, Flask, Data Science, Automation).
+- 📫 Contact: [admin@devroush.tech](mailto:admin@devroush.tech)
+
+## 📊 My Public Repositories Say...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=radical)
+
+## 🚀 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=radical)
+
+## 🛠️ Tech Stack
+### 🔹 Frontend
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+
+### 🔹 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-gray?style=flat&logo=express)
+![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
+
+### 🔹 Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)
+
