@@ -1,8 +1,5 @@
 # PREM015
 
-## 🌟 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=PREM015&color=blue)
-
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PREM015&theme=radical&hide_border=false)
 
@@ -17,9 +14,6 @@ I am a **Full-Stack Developer**, **Gamer**, and **Traveller**, commonly found co
 
 ## 🚀 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=radical&hide_border=false&cache_seconds=86400)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=PREM015&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
