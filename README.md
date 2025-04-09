@@ -1,7 +1,7 @@
 # PREM015
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=PREM015&theme=radical&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ## 👨‍💻 About Me
 I am a **Full-Stack Developer**, **Gamer**, and **Traveller**, commonly found coding in **JavaScript** and **Python**.
