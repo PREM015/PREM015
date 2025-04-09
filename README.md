@@ -1,13 +1,17 @@
 # PREM015
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PREM015&theme=radical&hide_border=false)](https://streak-stats.demolab.com?user=PREM015)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PREM015&theme=radical&hide_border=false)](https://github.com/PREM015)
 
 ## 👨‍💻 About Me
 I am a **Full-Stack Developer**, **Gamer**, and **Traveller**, commonly found coding in **JavaScript** and **Python**.
 
-💻 Experienced in **Full-Stack Development** (JavaScript, React, Node.js, Express, MongoDB, PostgreSQL)  
-🐍 Passionate about **Python** (Django, Flask, Data Science, Automation)
+💻 Experienced in **Full-Stack Development**  
+(JavaScript, React, Node.js, Express, MongoDB, PostgreSQL)  
+🐍 Passionate about **Python**  
+(Django, Flask, Data Science, Automation)
+
+---
 
 ## 📊 My Public Repositories Say...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=radical&hide_border=false&langs_count=8&cache_seconds=86400)
@@ -55,4 +59,18 @@ I am a **Full-Stack Developer**, **Gamer**, and **Traveller**, commonly found co
 
 ---
 
-_🔥 Proudly crafted with love for code, games, and adventure._
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/prem015)
+- 🌐 [Portfolio Website](#) *(Coming Soon)*  
+- 📬 Reach me at: `your.email@example.com`
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+> _🔥 Proudly crafted with love for code, games, and adventure._
