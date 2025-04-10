@@ -1,4 +1,8 @@
-# 👋 Welcome to My GitHub — PREM015
+<h1 align="center">👋 Welcome to My GitHub — PREM015</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F35626&width=435&lines=Full-Stack+Developer;JavaScript+%7C+Python+%7C+React;Traveller+%7C+Gamer+%7C+Linux+Lover;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤️ using **JavaScript** and **Python**.
 
@@ -35,37 +39,46 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 
 - **Email:** your-email@example.com  
 - **LinkedIn:** [Your LinkedIn Name]  
-- **Portfolio:** [Your Website or Coming Soon...]
+- **Portfolio:** [Coming Soon...]
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=radical&hide_border=false)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=radical&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=PREM015&theme=radical&no-bg=true&no-frame=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PREM015&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PREM015&theme=radical&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PREM015&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🔝 Top Repositories
 
-- [CloudNote](https://github.com/PREM015/cloudnote)  
-- [Codeswear Clone](https://github.com/PREM015/codeswear)  
-- [QuoteSnap](https://github.com/PREM015/quotesnap)  
+- [🌩️ CloudNote](https://github.com/PREM015/cloudnote)  
+- [🛍️ Codeswear Clone](https://github.com/PREM015/codeswear)  
+- [📝 QuoteSnap](https://github.com/PREM015/quotesnap)
 
 ---
 
 ## ☕ Support Me
 
-If you like what I build, consider **buying me a coffee** or just say hi! 😊
+If you enjoy my work, consider **buying me a coffee** or just dropping a ⭐ on any repo. Every little bit helps! 😊  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%98%8A-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/yourprofile)
+
+---
