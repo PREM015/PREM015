@@ -104,9 +104,7 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=radical&hide_border=false" alt="GitHub Streak (Alternative)" />
-</p>
+
 
 ---
 
