@@ -99,8 +99,10 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 
 ## 🔥 GitHub Streak
 
-<!-- Original streak badge (fallback if broken) -->
-<!-- <img src="https://streak-stats.demolab.com?user=PREM015&theme=radical&hide_border=false" alt="GitHub Streak" /> -->
+<p align="centre">
+ <img src="https://streak-stats.demolab.com?user=PREM015&theme=radical&hide_border=false" alt="GitHub Streak" /> 
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=radical&hide_border=false" alt="GitHub Streak (Alternative)" />
