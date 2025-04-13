@@ -68,7 +68,7 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 
 - **Portfolio Website** — A modern, personal portfolio using React + Vite + Tailwind  
 - **Automation Scripts** — Python bots for WhatsApp and everyday productivity  
-- **Blog CMS** — Full-stack blogging platform with markdown support (MERN stack)  
+
 
 ---
 
