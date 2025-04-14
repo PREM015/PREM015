@@ -2,14 +2,12 @@
 
 <!-- 👇 Banner Image -->
 <p align="center">
-  <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 100%; height: 300px; object-fit: cover; border-radius: 10px; " />
+  <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 100%; height: 300px; object-fit: cover; border-radius: 10px;" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F35626&width=435&lines=Full-Stack+Developer;JavaScript+%7C+Python+%7C+React;Traveller+%7C+Gamer+%7C+Linux+Lover;Open+Source+Contributor" alt="Typing SVG" />
 </p>
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -61,12 +59,17 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 
 ### 🚀 Tools & DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+
+---
+
+## 📚 Tech Stack Breakdown
+
+### 🔧 Development
+- IDE: VS Code, PyCharm
+- Version Control: Git + GitHub
+- Package Managers: npm, pip
 
 ---
 
@@ -77,11 +80,32 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 
 ---
 
+## 🧠 Languages I've Used
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/PREM015/cloudnote" />
+  <img src="https://img.shields.io/github/languages/top/PREM015/codeswear" />
+  <img src="https://img.shields.io/github/languages/top/PREM015/quotesnap" />
+</p>
+
+---
+
 ## 📫 Contact Me
 
-- 📧 **Email:** your-email@example.com  
-- 🔗 **LinkedIn:** [Your LinkedIn Name](https://linkedin.com/in/your-linkedin-profile)  
+- 📧 **Email:** rprem3096@gmail.com  
+- 🔗 **LinkedIn:** [Your LinkedIn Name](https://www.linkedin.com/in/prem-r-2655a3302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 🌐 **Portfolio:** Coming Soon...
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm open to contributing, pairing up, or mentoring on:
+- Open Source 🔓  
+- Python automation 🤖  
+- Web Projects (React + Django) 💻
+
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or drop me a mail 📬
 
 ---
 
