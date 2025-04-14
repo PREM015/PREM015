@@ -1,3 +1,8 @@
+<!-- 👇 Banner Image -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/825d6597-bba9-4bf5-a5e2-9204afd1d3bf" alt="PREM015 GitHub Banner" />
+</p>
+
 <h1 align="center">👋 Welcome to My GitHub — PREM015</h1>
 
 <p align="center">
@@ -10,7 +15,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-
 </p>
 
 ---
@@ -69,7 +73,6 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 - **Portfolio Website** — A modern, personal portfolio using React + Vite + Tailwind  
 - **Automation Scripts** — Python bots for WhatsApp and everyday productivity  
 
-
 ---
 
 ## 📫 Contact Me
@@ -99,12 +102,9 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 
 ## 🔥 GitHub Streak
 
-<p align="centre">
- <img src="https://streak-stats.demolab.com?user=PREM015&theme=radical&hide_border=false" alt="GitHub Streak" /> 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PREM015&theme=radical&hide_border=false" alt="GitHub Streak" /> 
 </p>
-
-
-
 
 ---
 
