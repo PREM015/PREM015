@@ -120,8 +120,9 @@ Feel free to connect via [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PREM015&theme=radical&hide_border=false" alt="GitHub Streak" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
+
 
 ---
 
