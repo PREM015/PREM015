@@ -93,7 +93,7 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 ## 📫 Contact Me
 
 - 📧 **Email:** rprem3096@gmail.com  
-- 🔗 **LinkedIn:** [Your LinkedIn Name](https://www.linkedin.com/in/prem-r-2655a3302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🔗 **LinkedIn:** [PREM RAJ ](https://www.linkedin.com/in/prem-r-2655a3302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 🌐 **Portfolio:** Coming Soon...
 
 ---
