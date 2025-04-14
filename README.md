@@ -2,13 +2,14 @@
 
 <!-- 👇 Banner Image in a Div -->
 <p align="center">
-  <div style="width: 100%; height: 200px; background-image: url('https://github.com/user-attachments/assets/825d6597-bba9-4bf5-a5e2-9204afd1d3bf'); background-size: contain; background-position: center; background-repeat: no-repeat; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="width: 100%; height: 200px; background-image: url('https://github.com/PREM015/assets/banner.png'); background-size: contain; background-position: center; background-repeat: no-repeat; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F35626&width=435&lines=Full-Stack+Developer;JavaScript+%7C+Python+%7C+React;Traveller+%7C+Gamer+%7C+Linux+Lover;Open+Source+Contributor" alt="Typing SVG" />
 </p>
+
 
 
 <p align="center">
