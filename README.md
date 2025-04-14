@@ -67,8 +67,8 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 ## 📚 Tech Stack Breakdown
 
 ### 🔧 Development
-- IDE: VS Code, PyCharm
-- Version Control: Git + GitHub
+- IDE: VS Code, PyCharm  
+- Version Control: Git + GitHub  
 - Package Managers: npm, pip
 
 ---
@@ -80,12 +80,11 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 
 ---
 
-## 🧠 Languages I've Used
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/PREM015/cloudnote" />
-  <img src="https://img.shields.io/github/languages/top/PREM015/codeswear" />
-  <img src="https://img.shields.io/github/languages/top/PREM015/quotesnap" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
@@ -93,7 +92,7 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 ## 📫 Contact Me
 
 - 📧 **Email:** rprem3096@gmail.com  
-- 🔗 **LinkedIn:** [PREM RAJ ](https://www.linkedin.com/in/prem-r-2655a3302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🔗 **LinkedIn:** [PREM RAJ](https://www.linkedin.com/in/prem-r-2655a3302)  
 - 🌐 **Portfolio:** Coming Soon...
 
 ---
@@ -101,20 +100,12 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 ## 🤝 Let's Collaborate!
 
 I'm open to contributing, pairing up, or mentoring on:
+
 - Open Source 🔓  
 - Python automation 🤖  
 - Web Projects (React + Django) 💻
 
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or drop me a mail 📬
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-</p>
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302) or drop me a mail 📬
 
 ---
 
@@ -145,6 +136,7 @@ Feel free to connect via [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302
 ## ☕ Support Me
 
 If you enjoy my work, consider **buying me a coffee** or just dropping a ⭐ on any repo. Every little bit helps! 😊  
+
 <p align="left">
   <a href="https://www.buymeacoffee.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%98%8A-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee" />
