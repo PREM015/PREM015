@@ -1,9 +1,8 @@
 <h1 align="center">👋 Welcome to My GitHub — PREM015</h1>
 
-<!-- 👇 Banner Image in a Div -->
+<!-- 👇 Banner Image -->
 <p align="center">
-  <div style="width: 100%; height: 200px; background-image: url('https://github.com/PREM015/assets/banner.png'); background-size: contain; background-position: center; background-repeat: no-repeat; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  </div>
+  <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </p>
 
 <p align="center">
