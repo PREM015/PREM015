@@ -2,7 +2,7 @@
 
 <!-- 👇 Banner Image in a Div -->
 <p align="center">
-  <div style="width: 300%; height: 300px; background-image: url('./banner.png'); background-size: cover; background-position: center; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="width: 100%; height: 200px; background-image: url('https://github.com/user-attachments/assets/825d6597-bba9-4bf5-a5e2-9204afd1d3bf'); background-size: contain; background-position: center; background-repeat: no-repeat; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
 </p>
 
