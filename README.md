@@ -2,7 +2,7 @@
 
 <!-- 👇 Banner Image -->
 <p align="center">
-  <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 100%; height: 300px; object-fit: cover; border-radius: 10px;" />
+  <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 75%; height: auto; object-fit: cover; border-radius: 100px;" />
 </p>
 
 <p align="center">
