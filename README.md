@@ -1,13 +1,14 @@
-<!-- 👇 Banner Image -->
-<p align="center">
-  <img src="/banner.png" alt="PREM015 GitHub Banner" />
-</p>
-
 <h1 align="center">👋 Welcome to My GitHub — PREM015</h1>
+
+<!-- 👇 Banner Image -->
+<p align="center" style="width: 100%; height: 250px; overflow: hidden; position: relative;">
+  <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F35626&width=435&lines=Full-Stack+Developer;JavaScript+%7C+Python+%7C+React;Traveller+%7C+Gamer+%7C+Linux+Lover;Open+Source+Contributor" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
