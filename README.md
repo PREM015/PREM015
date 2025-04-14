@@ -1,6 +1,6 @@
 <!-- 👇 Banner Image -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/825d6597-bba9-4bf5-a5e2-9204afd1d3bf" alt="PREM015 GitHub Banner" />
+  <img src="/banner.png" alt="PREM015 GitHub Banner" />
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub — PREM015</h1>
