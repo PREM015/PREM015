@@ -1,8 +1,7 @@
 <h1 align="center">👋 Welcome to My GitHub — PREM015</h1>
-
 <!-- 👇 Banner Image -->
 <p align="center">
-  <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 75%; height: auto; object-fit: cover; border-radius: 100px;" />
+  <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 75%; height: auto; object-fit: cover; border-radius: 70px;" />
 </p>
 
 <p align="center">
@@ -67,16 +66,25 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 ## 📚 Tech Stack Breakdown
 
 ### 🔧 Development
-- IDE: VS Code, PyCharm  
-- Version Control: Git + GitHub  
-- Package Managers: npm, pip
+- **IDE**: VS Code, PyCharm
+- **Version Control**: Git + GitHub
+- **Package Managers**: npm (for JavaScript/TypeScript), pip (for Python)
+- **Build Tools**: Vite, Webpack, Next.js
+- **Containerization**: Docker
+- **CI/CD**: Vercel (for front-end deployment)
+
+### 📦 Libraries/Frameworks
+- **Frontend**: React, Next.js, Tailwind CSS, MUI, Headless UI, GraphQL
+- **Backend**: Node.js, Express, Django, Flask
+- **Database**: MongoDB, PostgreSQL, MySQL, SQLite
+- **Authentication**: JWT, OAuth (for Google login)
 
 ---
 
 ## 🚀 Current Projects
 
-- **Portfolio Website** — A modern, personal portfolio using React + Vite + Tailwind  
-- **Automation Scripts** — Python bots for WhatsApp and everyday productivity  
+- **Portfolio Website** — A modern, personal portfolio using React + Vite + Tailwind
+- **Automation Scripts** — Python bots for WhatsApp and everyday productivity
 
 ---
 
@@ -100,9 +108,8 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 ## 🤝 Let's Collaborate!
 
 I'm open to contributing, pairing up, or mentoring on:
-
-- Open Source 🔓  
-- Python automation 🤖  
+- Open Source 🔓
+- Python automation 🤖
 - Web Projects (React + Django) 💻
 
 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302) or drop me a mail 📬
@@ -123,13 +130,12 @@ Feel free to connect via [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
-
 ---
 
 ## 🔝 Top Repositories
 
-- [🌩️ CloudNote](https://github.com/PREM015/cloudnote)  
-- [🛍️ Codeswear Clone](https://github.com/PREM015/codeswear)  
+- [🌩️ CloudNote](https://github.com/PREM015/cloudnote)
+- [🛍️ Codeswear Clone](https://github.com/PREM015/codeswear)
 - [📝 QuoteSnap](https://github.com/PREM015/quotesnap)
 
 ---
