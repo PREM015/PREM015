@@ -19,7 +19,7 @@
 
 ---
 
-I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤️ using **JavaScript** and **Python**.
+I'm **PREM015**, a Full-Stack Developer,  and Traveller who codes with ❤️ using **JavaScript** and **Python**.
 
 ---
 
