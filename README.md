@@ -19,7 +19,7 @@
 
 ---
 
-I'm **PREM015**, a Full-Stack Developer,  and Traveller who codes with ❤️ using **JavaScript** and **Python**.
+I'm **PREM015**, a Full-Stack Developer and Traveller who codes with ❤️ using **JavaScript** and **Python**.
 
 ---
 
@@ -30,78 +30,53 @@ I'm **PREM015**, a Full-Stack Developer,  and Traveller who codes with ❤️ us
 - 🌍 Traveler by heart, developer by profession.
 
 ---
-
-## 🛠️ Skills & Technologies
-
-### 💻 Languages
-![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TS](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-### 🧠 Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
-
-### 🚀 Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
-
----
+🛠️ Skills & Technologies
+💻 Programming Languages
+<p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
+🎨 Frontend
+<p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> </p>
+⚙️ Backend
+<p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> </p>
+🗄️ Databases
+<p align="center"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> </p>
+🚀 Tools & DevOps
+<p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </p>
 
 ## 📚 Tech Stack Breakdown
 
 ### 🔧 Development
-- **IDE**: VS Code, PyCharm
-- **Version Control**: Git + GitHub
-- **Package Managers**: npm (for JS/TS), pip (for Python)
-- **Build Tools**: Vite, Webpack, Next.js
-- **Containerization**: Docker
-- **CI/CD**: Vercel (for front-end deployment)
+- 🖥️ **IDE**: VS Code, PyCharm  
+- 🌿 **Version Control**: Git + GitHub  
+- 📦 **Package Managers**: npm, pip  
+- 🏗️ **Build Tools**: Vite, Webpack, Next.js  
+- 🐳 **Containerization**: Docker  
+- 🚀 **CI/CD**: Vercel  
 
-### 📦 Libraries/Frameworks
-- **Frontend**: React, Next.js, Tailwind CSS, MUI, Headless UI
-- **Backend**: Node.js, Express, Django, Flask
-- **Database**: MongoDB, PostgreSQL, MySQL, SQLite
-- **Authentication**: JWT, OAuth (Google login)
+### 📦 Libraries / Frameworks
+- 💻 **Frontend**: React, Next.js, Tailwind CSS, MUI, Headless UI  
+- ⚙️ **Backend**: Node.js, Express, Django, Flask  
+- 🗄️ **Database**: MongoDB, PostgreSQL, MySQL, SQLite  
+- 🔐 **Authentication**: JWT, OAuth (Google login)  
 
 ---
 
 ## 💼 Work & Freelance Experience
 
-### 💼 Freelance Developer | Remote
-- Built and deployed full-stack apps using **React**, **Next.js**, **Node.js** and **MongoDB**.
-- Created REST APIs, dynamic UIs, and deployed apps on **Vercel** and **Render**.
-- Delivered client projects focused on UI/UX, performance, and scalability.
+### 🧑‍💻 Freelance Developer | Remote
+- 🏗️ Built full-stack apps using **React**, **Next.js**, **Node.js**, and **MongoDB**.  
+- ⚡ Created REST APIs and interactive UIs; deployed on **Vercel**, **Render**, and more.  
+- 🚀 Delivered real-world apps focused on performance, design, and user experience.
 
 ---
 
 ## 🔭 Currently Exploring
 
-- 🧠 TypeScript for scalable JavaScript applications
-- 🔐 OAuth 2.0 & web security best practices
-- ☁️ Cloud services: AWS, Netlify, Firebase
-- 📘 System Design & architectural patterns
+- 📘 **TypeScript** — for scalable frontend and backend systems.  
+- 🔐 **OAuth 2.0** — web security, session & token management.  
+- ☁️ **Cloud Platforms** — AWS, Firebase, Netlify deployments.  
+- 🧱 **System Design** — high-level architectural patterns and best practices.  
 
-
+---
 
 ## 🚧 Featured Projects
 
@@ -115,12 +90,12 @@ I'm **PREM015**, a Full-Stack Developer,  and Traveller who codes with ❤️ us
 
 ## 🤝 Let's Collaborate!
 
-I'm open to collaborating on:
-- Open Source 🔓
-- Python Automation 🤖
-- Full-stack Projects 💻
+I'm open to working together on:
+- 🚀 Open Source Projects  
+- 🧠 Python Automation  
+- 🌐 Full-stack Web Applications  
 
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302) or mail me at 📧 `rprem3096@gmail.com`
+📬 Connect on [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302) or mail me at **`rprem3096@gmail.com`**
 
 ---
 
@@ -147,12 +122,11 @@ Feel free to connect via [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=radical&hide_border=false" />
 </p>
 
-
-
+---
 
 ## ☕ Support Me
 
-If you enjoy my work, consider **buying me a coffee** or dropping a ⭐ on any repo:
+If you enjoy my work, consider buying me a coffee or dropping a ⭐ on a repo:
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/yourprofile" target="_blank">
