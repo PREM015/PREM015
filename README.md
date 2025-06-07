@@ -108,11 +108,8 @@ I'm **PREM015**, a Full-Stack Developer, Gamer, and Traveller who codes with ❤
 - 🌩️ [**Codetracter**](https://github.com/PREM015/c-o-d-e-t-r-a-c-k-e-r)  
   _Code Tracker App for organizing coding practice and projects._
 
-- 🌐 [**Portfolio**](https://github.com/PREM015/portfolio-v2)  
+- 🌐 [**Portfolio**](https://github.com/PREM015/portfolio)  
   _Next.js + Tailwind CSS powered developer portfolio._
-
-- 🔐 [**Authify**](https://github.com/PREM015/authify)  
-  _JWT + OAuth authentication boilerplate for Node.js apps._
 
 ---
 
