@@ -29,7 +29,7 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
 
 ## 🌟 Highlights
 
-- 🎓 Diploma Holder — Always learning and building  
+- 🎓 Diploma Holder — Always learning and building things 
 - ⚡ Passionate about **tech, games, and clean code**  
 - 🌍 Traveler by heart, developer by profession  
 
