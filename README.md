@@ -103,7 +103,7 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
 
 ### 🧑‍💻 Freelance Developer | Remote
 - 🏗️ Built full-stack apps using **React**, **Next.js**, **Node.js**, and **MongoDB**  
-- ⚡ Created REST APIs and interactive UIs; deployed on **Vercel**, **Render**, and more  
+- ⚡ Created REST APIs and interactive UIs; deployed on **Vercel**, **Render**, and more. 
 - 🚀 Delivered real-world apps focused on performance, design, and user experience.  
 
 ---
