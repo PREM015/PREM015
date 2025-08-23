@@ -29,9 +29,9 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
 
 ## 🌟 Highlights
 
-- 🎓 Diploma Holder — Always learning and building  
-- ⚡ Passionate about **tech, games, and clean code**  
-- 🌍 Traveler by heart, developer by profession  
+- 🎓 Diploma Holder — Always learning and building things.
+- ⚡ Passionate about **tech, games, and clean code**. 
+- 🌍 Traveler by heart, developer by profession. 
 
 ---
 
@@ -89,7 +89,7 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
 - 📦 **Package Managers**: npm, pip  
 - 🏗️ **Build Tools**: Vite, Webpack, Next.js  
 - 🐳 **Containerization**: Docker  
-- 🚀 **CI/CD**: Vercel  
+- 🚀 **CI/CD**: Vercel 
 
 ### 📦 Libraries / Frameworks
 - 💻 **Frontend**: React, Next.js, Tailwind CSS, MUI, Headless UI  
@@ -103,8 +103,8 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
 
 ### 🧑‍💻 Freelance Developer | Remote
 - 🏗️ Built full-stack apps using **React**, **Next.js**, **Node.js**, and **MongoDB**  
-- ⚡ Created REST APIs and interactive UIs; deployed on **Vercel**, **Render**, and more  
-- 🚀 Delivered real-world apps focused on performance, design, and user experience  
+- ⚡ Created REST APIs and interactive UIs; deployed on **Vercel**, **Render**, and more. 
+- 🚀 Delivered real-world apps focused on performance, design, and user experience.  
 
 ---
 
@@ -168,7 +168,7 @@ I'm open to working together on:
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%98%8A-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%98%8A-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee." />
   </a>
 </p>
 
