@@ -1,8 +1,8 @@
 <h1 align="center">👋 Welcome to My GitHub — PREM015</h1>
 
-<!-- 👇 Banner Image -->
+<!-- Banner -->
 <p align="center">
-  <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 75%; height: auto; object-fit: cover; border-radius: 20px;" />
+  <img src="./banner.png" alt="PREM015 GitHub Banner" width="75%" />
 </p>
 
 <!-- Typing Animation -->
@@ -21,7 +21,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with ❤️ using **JavaScript** and **Python**.
 
@@ -29,9 +29,9 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
 
 ## 🌟 Highlights
 
-- 🎓 Diploma Holder — Always learning and building things.
-- ⚡ Passionate about **tech, games, and clean code**. 
-- 🌍 Traveler by heart, developer by profession. 
+- 🎓 Diploma Holder — Always learning and building things.  
+- ⚡ Passionate about **tech, games, and clean code**.  
+- 🌍 Traveler by heart, developer by profession.  
 
 ---
 
@@ -89,7 +89,7 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
 - 📦 **Package Managers**: npm, pip  
 - 🏗️ **Build Tools**: Vite, Webpack, Next.js  
 - 🐳 **Containerization**: Docker  
-- 🚀 **CI/CD**: Vercel 
+- 🚀 **CI/CD**: Vercel  
 
 ### 📦 Libraries / Frameworks
 - 💻 **Frontend**: React, Next.js, Tailwind CSS, MUI, Headless UI  
@@ -103,13 +103,12 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
 
 ### 🧑‍💻 Freelance Developer | Remote
 - 🏗️ Built full-stack apps using **React**, **Next.js**, **Node.js**, and **MongoDB**  
-- ⚡ Created REST APIs and interactive UIs; deployed on **Vercel**, **Render**, and more. 
+- ⚡ Created REST APIs and interactive UIs; deployed on **Vercel**, **Render**, and more.  
 - 🚀 Delivered real-world apps focused on performance, design, and user experience.  
 
 ---
 
 ## 🔭 Currently Exploring
-
 - 📘 **TypeScript** — for scalable frontend and backend systems  
 - 🔐 **OAuth 2.0** — web security, session & token management  
 - ☁️ **Cloud Platforms** — AWS, Firebase, Netlify deployments  
@@ -128,28 +127,25 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
 ---
 
 ## 🤝 Let's Collaborate!
-
 I'm open to working together on:
 - 🚀 Open Source Projects  
 - 🧠 Python Automation  
 - 🌐 Full-stack Web Applications  
 
 📬 Connect on [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302)  
-📧 Mail me at: [email](rprem3096@gmail.com)
+📧 Mail me at: [rprem3096@gmail.com](mailto:rprem3096@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PREM015&theme=radical&no-bg=true&no-frame=true" />
 </p>
@@ -157,17 +153,15 @@ I'm open to working together on:
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=radical" />
 </p>
 
 ---
 
 ## ☕ Support Me
-
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%98%8A-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee." />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </p>
