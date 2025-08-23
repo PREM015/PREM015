@@ -173,4 +173,3 @@ I'm open to working together on:
 </p>
 
 
-[rprem3096@gmail.com]: rprem3096@gmail.com
