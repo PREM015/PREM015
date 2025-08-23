@@ -135,7 +135,7 @@ I'm open to working together on:
 - 🌐 Full-stack Web Applications  
 
 📬 Connect on [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302)  
-📧 Mail me at: [email](rprem3096@gmail.com)
+📧 Mail me at: [email][rprem3096@gmail.com]
 
 ---
 
@@ -171,3 +171,6 @@ I'm open to working together on:
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%98%8A-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee" />
   </a>
 </p>
+
+
+[rprem3096@gmail.com]: rprem3096@gmail.com
