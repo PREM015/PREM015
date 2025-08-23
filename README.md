@@ -133,7 +133,11 @@ I'm open to working together on:
 - 🌐 Full-stack Web Applications  
 
 📬 Connect on [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302)  
+<<<<<<< HEAD
 📧 Mail me at: [rprem3096@gmail.com](mailto:rprem3096@gmail.com)
+=======
+📧 Mail me at: [EMAIL](mailto:rprem3096@gmail.com)
+>>>>>>> b759ec7d7342000a1ca8f2d53b2d95a79c2fd189
 
 ---
 
