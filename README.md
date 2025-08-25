@@ -95,7 +95,7 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
 - 💻 **Frontend**: React, Next.js, Tailwind CSS, MUI, Headless UI  
 - ⚙️ **Backend**: Node.js, Express, Django, Flask  
 - 🗄️ **Database**: MongoDB, PostgreSQL, MySQL, SQLite  
-- 🔐 **Authentication**: JWT, OAuth (Google login)  
+- 🔐 **Authentication**: JWT, OAuth (Google login). 
 
 ---
 
