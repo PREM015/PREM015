@@ -2,14 +2,12 @@
 
 <!-- 👇 Banner Image -->
 <p align="center">
-<img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 75%; height: auto; object-fit: cover; border-radius: 20px;" />
+  <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 75%; height: auto; object-fit: cover; border-radius: 20px;" />
 </p>
-
 <!-- Typing Animation -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F35626&width=435&lines=Full-Stack+Developer;JavaScript+%7C+Python+%7C+React;Traveller+%7C+Gamer+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
-
 
 <!-- Tech Badges -->
 <p align="center">
@@ -152,20 +150,20 @@ I'm open to working together on:
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PREM015&theme=radical&no-bg=true&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=radical&hide_border=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PREM015&theme=radical&no-bg=true&no-frame=true" />
 </p>
-
 ---
 
 ## ☕ Support Me
