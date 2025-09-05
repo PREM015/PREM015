@@ -167,7 +167,7 @@ I'm open to working together on:
 
 ---
 
-## ☕ Support Me
+## ☕ Support Me.
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourprofile" target="_blank">
