@@ -89,7 +89,7 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
 - 🖥️ **IDE**: VS Code, PyCharm  
 - 🌿 **Version Control**: Git + GitHub  
 - 📦 **Package Managers**: npm, pip  
-- 🏗️ **Build Tools**: Vite, Webpack, Next.js  
+- 🏗️ **Build Tools**: Vite, Webpack, Next.js.  
 - 🐳 **Containerization**: Docker  
 - 🚀 **CI/CD**: Vercel  
 
