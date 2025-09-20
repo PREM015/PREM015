@@ -1,10 +1,16 @@
+<!-- Header Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=F35626,6C63FF,FF9F0D&center=true&vCenter=true&lines=👋+Hello,+I'm+PREM015;💻+Full-Stack+Developer;🚀+Creating+Modern+Apps" />
 </h1>
 
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 75%; height: auto; object-fit: cover; border-radius: 20px; filter: drop-shadow(0 0 15px #F35626);" />
+  <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 80%; height: auto; object-fit: cover; border-radius: 25px; filter: drop-shadow(0 0 25px #F35626);" />
+</p>
+
+<!-- Typing Animation for Skills -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=F35626,6C63FF,FF9F0D&width=600&lines=Full-Stack+Developer;JavaScript+%7C+Python+%7C+React;Traveller+%7C+Gamer+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views -->
@@ -13,29 +19,29 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&height=5&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&height=6&section=header" />
 </p>
 
 ---
 
 ## ✨ About Me
-<p align="center">
-  <b style="font-size:18px; background: linear-gradient(90deg, #F35626, #6C63FF); -webkit-background-clip: text; color: transparent;">I'm PREM015</b>, a Full-Stack Developer<br/>
-  <i style="color:#6C63FF;">building high-quality apps with ❤️ using <b>JavaScript</b> & <b>Python</b></i>
+<p align="center" style="font-size:18px;">
+  <b style="background: linear-gradient(90deg, #F35626, #6C63FF); -webkit-background-clip: text; color: transparent;">I'm PREM015</b>, a passionate Full-Stack Developer<br/>
+  <i style="color:#6C63FF;">Building high-quality apps using <b>JavaScript</b>, <b>Python</b>, <b>React</b> & modern web technologies</i>
 </p>
 
 ---
 
 ## 🌟 Highlights
 <p align="center">
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">🎓 Diploma Holder</span> — Always learning & building <br/>
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">⚡ Passionate</span> about tech, gaming & clean code <br/>
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">🌍 Developer</span> by profession, creator by passion <br/>
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">✈️ Travel:</span> Goa & Himachal
+  <span style="color:#F35626; font-weight:bold;">🎓 Diploma Holder</span> — Always learning & building<br/>
+  <span style="color:#6C63FF; font-weight:bold;">⚡ Passionate</span> about tech, gaming & clean code<br/>
+  <span style="color:#FF9F0D; font-weight:bold;">🌍 Developer</span> by profession, creator by passion<br/>
+  <span style="color:#F35626; font-weight:bold;">✈️ Travel:</span> Goa & Himachal
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&height=4&section=divider" />
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&height=5&section=divider" />
 </p>
 
 ---
@@ -92,30 +98,26 @@
 
 ## 💼 Work & Freelance
 <p align="center">
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">🏗️ Built full-stack apps</span> with <b>React, Next.js, Node.js, MongoDB</b><br/>
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">⚡ Created REST APIs</span> & interactive UIs; deployed on <b>Vercel & Render</b><br/>
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">🚀 Delivered real-world apps</span> with focus on <b>performance & UI/UX</b>
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">🏗️ Built full-stack apps</span> with React, Next.js, Node.js, MongoDB<br/>
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">⚡ Created REST APIs</span> & interactive UIs; deployed on Vercel & Render<br/>
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">🚀 Delivered real-world apps</span> with focus on performance & UI/UX
 </p>
 
 ---
 
 ## 🔭 Exploring & Learning
 <p align="center">
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">📘 TypeScript</span> — scalable frontend & backend<br/>
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">🔐 OAuth 2.0</span> — advanced security<br/>
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">☁️ Cloud</span> — AWS, Firebase, Netlify<br/>
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">🧱 System Design</span> — architecture patterns<br/>
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">🤖 Machine Learning & AI</span> integration<br/>
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">🦀 Rust/Go</span> — backend performance
+  📘 TypeScript | 🔐 OAuth 2.0 | ☁️ Cloud (AWS, Firebase, Netlify)<br/>
+  🧱 System Design | 🤖 Machine Learning & AI | 🦀 Rust/Go
 </p>
 
 ---
 
 ## 🚧 Featured Projects
 <p align="center">
-[![Codetracter](https://img.shields.io/badge/Codetracter-Fullstack-blue?style=for-the-badge)](https://github.com/PREM015/c-o-d-e-t-r-a-c-k-e-r)  
-_Code Tracker App to organize coding practice & projects_<br/>
-[![Portfolio](https://img.shields.io/badge/Portfolio-Next.js-green?style=for-the-badge)](https://github.com/PREM015/portfolio)  
+[![Codetracter](https://img.shields.io/badge/Codetracter-Fullstack-blue?style=for-the-badge)](https://github.com/PREM015/c-o-d-e-t-r-a-c-k-e-r)<br/>
+_Code Tracker App to organize coding practice & projects_<br/><br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Next.js-green?style=for-the-badge)](https://github.com/PREM015/portfolio)<br/>
 _Modern portfolio with Next.js & Tailwind CSS_
 </p>
 
@@ -123,17 +125,16 @@ _Modern portfolio with Next.js & Tailwind CSS_
 
 ## ✍️ Latest Blog Posts
 <p align="center">
-- [Building a Fullstack App with Next.js & Prisma](#)  
-- [Dockerize Your Python + Node Projects](#)  
+- [Building a Fullstack App with Next.js & Prisma](#)<br/>
+- [Dockerize Your Python + Node Projects](#)<br/>
 - [How I Designed My Portfolio](#)
 </p>
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🤝 Let's Collaborate
 <p align="center">
-Open to: <br/>
-🚀 Open Source Projects | 🧠 Python Automation | 🌐 Full-Stack Web Apps<br/>
+Open to: 🚀 Open Source Projects | 🧠 Python Automation | 🌐 Full-Stack Web Apps<br/>
 📬 [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302) | 📧 [Email](mailto:152625984+PREM015@users.noreply.github.com)
 </p>
 
