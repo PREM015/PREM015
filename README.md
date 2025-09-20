@@ -1,13 +1,10 @@
-<h1 align="center">👋 Welcome to My GitHub — PREM015</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F35626&center=true&vCenter=true&lines=👋+Welcome+to+My+GitHub;🚀+PREM015+Portfolio;💻+Full-Stack+Developer" />
+</h1>
 
 <!-- 👇 Banner Image -->
 <p align="center">
   <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 75%; height: auto; object-fit: cover; border-radius: 20px;" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F35626&width=435&lines=Full-Stack+Developer;JavaScript+%7C+Python+%7C+React;Traveller+%7C+Gamer+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views -->
@@ -15,11 +12,15 @@
   <img src="https://komarev.com/ghpvc/?username=PREM015&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
 
-I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with ❤️ using **JavaScript** and **Python**.
+I'm **PREM015**, a Full-Stack Developer who codes with ❤️ using **JavaScript** and **Python**.
 
 ---
 
@@ -27,7 +28,7 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
 
 - 🎓 Diploma Holder — Always learning and building things  
 - ⚡ Passionate about **tech, games, and clean code**  
-- 🌍 Traveler by heart, developer by profession  
+- 🌍 Developer by profession, creator by passion  
 
 ---
 
@@ -150,8 +151,8 @@ I'm open to working together on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F35626&icon_color=F35626" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F35626" />
 </p>
 
 ---
@@ -167,21 +168,14 @@ I'm open to working together on:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=tokyonight&hide_border=true&background=0D1117&stroke=F35626&ring=F35626&fire=F35626&currStreakLabel=F35626" />
 </p>
 
 ---
 
 ## 🐍 Snake Contribution Graph
 <p align="center">
-  <img src="https://github.com/PREM015/PREM015/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 📈 Coding Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PREM015&theme=radical" />
+  <img src="https://raw.githubusercontent.com/PREM015/PREM015/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -191,13 +185,6 @@ I'm open to working together on:
 - ☁️ AWS & Cloud Native Development  
 - 🔐 Advanced System Design & Scalability  
 - 🦀 Learn Rust or Go for backend performance  
-
----
-
-## 🎮 Fun Corner
-- 🎮 Fav Games: GTA V, Valorant, Minecraft  
-- 🌍 Places Traveled: ✈️ Goa, Delhi, Himachal  
-- 📖 Currently Reading: "Designing Data-Intensive Applications"  
 
 ---
 
