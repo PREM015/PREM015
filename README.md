@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=F35626&center=true&vCenter=true&lines=👋+Hello,+I'm+PREM015;💻+Full-Stack+Developer;🚀+Building+Modern+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=F35626&center=true&vCenter=true&lines=👋+Hello,+I'm+PREM015;💻+Full-Stack+Developer;🚀+Creating+Modern+Apps" />
 </h1>
 
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 75%; height: auto; object-fit: cover; border-radius: 20px;" />
+  <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 75%; height: auto; object-fit: cover; border-radius: 20px; filter: drop-shadow(0 0 10px #F35626);" />
 </p>
 
 <!-- Profile Views -->
@@ -13,23 +13,28 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&height=4&section=header" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## ✨ About Me
 
-I'm **PREM015**, a Full-Stack Developer passionate about building high-quality apps with ❤️ using **JavaScript**, **Python**, and modern web technologies.
+<p align="center">
+  <b style="font-size:18px;">I'm <span style="color:#F35626;">PREM015</span>, a Full-Stack Developer</b><br/>
+  <i style="color:#6C63FF;">building high-quality apps with ❤️ using <b>JavaScript</b> & <b>Python</b></i>
+</p>
 
 ---
 
 ## 🌟 Highlights
 
-- 🎓 Diploma Holder — Always learning & building  
-- ⚡ Passionate about **tech, gaming, and clean code**  
-- 🌍 Developer by profession, creator by passion  
- 
+<p align="center">
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">🎓 Diploma Holder</span> — Always learning & building <br/>
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">⚡ Passionate</span> about tech, gaming & clean code <br/>
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">🌍 Developer</span> by profession, creator by passion <br/>
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">✈️ Travel:</span> Goa & Himachal
+</p>
 
 ---
 
@@ -86,20 +91,24 @@ I'm **PREM015**, a Full-Stack Developer passionate about building high-quality a
 ## 💼 Work & Freelance
 
 ### 🧑‍💻 Freelance Developer | Remote
-- 🏗️ Built full-stack apps with **React**, **Next.js**, **Node.js**, **MongoDB**  
-- ⚡ Created REST APIs and interactive UIs; deployed on **Vercel** & **Render**  
-- 🚀 Delivered real-world apps with focus on **performance & UI/UX**  
+<p align="center">
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">🏗️ Built full-stack apps</span> with <b>React, Next.js, Node.js, MongoDB</b><br/>
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">⚡ Created REST APIs</span> & interactive UIs; deployed on <b>Vercel & Render</b><br/>
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">🚀 Delivered real-world apps</span> with focus on <b>performance & UI/UX</b>
+</p>
 
 ---
 
 ## 🔭 Exploring & Learning
 
-- 📘 **TypeScript** — Scalable frontend & backend  
-- 🔐 **OAuth 2.0** — Advanced security & session management  
-- ☁️ **Cloud Platforms** — AWS, Firebase, Netlify  
-- 🧱 **System Design** — High-level architecture  
-- 🤖 **Machine Learning & AI** integration  
-- 🦀 **Rust/Go** for backend performance  
+<p align="center">
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">📘 TypeScript</span> — scalable frontend & backend<br/>
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">🔐 OAuth 2.0</span> — advanced security<br/>
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">☁️ Cloud</span> — AWS, Firebase, Netlify<br/>
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">🧱 System Design</span> — architecture patterns<br/>
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">🤖 Machine Learning & AI</span> integration<br/>
+  <span style="font-weight:bold; font-family:'Courier New', monospace;">🦀 Rust/Go</span> — backend performance
+</p>
 
 ---
 
@@ -145,6 +154,14 @@ Open to:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PREM015&theme=radical&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PREM015&theme=radical&hide_border=false" />
 </p>
 
 ---
