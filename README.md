@@ -1,6 +1,6 @@
-<h1 align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=500&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,8B00FF&width=650&lines=👋+Hello,+I'm+PREM015;💻+Full-Stack+Developer;🚀+Creating+Modern+Apps" alt="Typing SVG" />  
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,8B00FF&width=500&lines=Full-Stack+Developer;JavaScript+%7C+Python+%7C+React;Traveller+%7C+Gamer+%7C+Open+Source+Contributor" alt="Typing Effect" />
+</p>
 
 <!-- Banner -->
 <p align="center">  
