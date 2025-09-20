@@ -1,6 +1,6 @@
 <!-- Header Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=F35626,6C63FF,FF9F0D&center=true&vCenter=true&lines=👋+Hello,+I'm+PREM015;💻+Full-Stack+Developer;🚀+Creating+Modern+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=F35626,6C63FF,FF9F0D,FF0000,00FF00,0000FF&width=700&lines=👋+Hello,+I'm+PREM015;💻+Full-Stack+Developer;🚀+Creating+Modern+Apps" alt="Typing SVG" />
 </h1>
 
 <!-- Banner -->
@@ -10,7 +10,7 @@
 
 <!-- Typing Animation for Skills -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=F35626,6C63FF,FF9F0D&width=600&lines=Full-Stack+Developer;JavaScript+%7C+Python+%7C+React;Traveller+%7C+Gamer+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=F35626,6C63FF,FF9F0D,FF0000,00FF00,0000FF&width=600&lines=Full-Stack+Developer;JavaScript+%7C+Python+%7C+React;Traveller+%7C+Gamer+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views -->
@@ -98,9 +98,9 @@
 
 ## 💼 Work & Freelance
 <p align="center">
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">🏗️ Built full-stack apps</span> with React, Next.js, Node.js, MongoDB<br/>
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">⚡ Created REST APIs</span> & interactive UIs; deployed on Vercel & Render<br/>
-  <span style="font-weight:bold; font-family:'Courier New', monospace;">🚀 Delivered real-world apps</span> with focus on performance & UI/UX
+  <b>🏗️ Built full-stack apps:</b> React, Next.js, Node.js, MongoDB<br/>
+  <b>⚡ Created REST APIs</b> & interactive UIs; deployed on Vercel & Render<br/>
+  <b>🚀 Delivered real-world apps</b> with focus on performance & UI/UX
 </p>
 
 ---
@@ -115,27 +115,25 @@
 
 ## 🚧 Featured Projects
 <p align="center">
-[![Codetracter](https://img.shields.io/badge/Codetracter-Fullstack-blue?style=for-the-badge)](https://github.com/PREM015/c-o-d-e-t-r-a-c-k-e-r)<br/>
-_Code Tracker App to organize coding practice & projects_<br/><br/>
-[![Portfolio](https://img.shields.io/badge/Portfolio-Next.js-green?style=for-the-badge)](https://github.com/PREM015/portfolio)<br/>
-_Modern portfolio with Next.js & Tailwind CSS_
+  [Codetracter](https://github.com/PREM015/c-o-d-e-t-r-a-c-k-e-r) — _Code Tracker App to organize coding practice & projects_<br/>
+  [Portfolio](https://github.com/PREM015/portfolio) — _Modern portfolio with Next.js & Tailwind CSS_
 </p>
 
 ---
 
 ## ✍️ Latest Blog Posts
 <p align="center">
-- [Building a Fullstack App with Next.js & Prisma](#)<br/>
-- [Dockerize Your Python + Node Projects](#)<br/>
-- [How I Designed My Portfolio](#)
+  [Building a Fullstack App with Next.js & Prisma](#)<br/>
+  [Dockerize Your Python + Node Projects](#)<br/>
+  [How I Designed My Portfolio](#)
 </p>
 
 ---
 
 ## 🤝 Let's Collaborate
 <p align="center">
-Open to: 🚀 Open Source Projects | 🧠 Python Automation | 🌐 Full-Stack Web Apps<br/>
-📬 [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302) | 📧 [Email](mailto:152625984+PREM015@users.noreply.github.com)
+  Open to: 🚀 Open Source Projects | 🧠 Python Automation | 🌐 Full-Stack Web Apps<br/>
+  [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302) | [Email](mailto:152625984+PREM015@users.noreply.github.com)
 </p>
 
 ---
