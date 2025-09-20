@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F35626&center=true&vCenter=true&lines=👋+Welcome+to+My+GitHub;🚀+PREM015+Portfolio;💻+Full-Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=F35626&center=true&vCenter=true&lines=👋+Hello,+I'm+PREM015;💻+Full-Stack+Developer;🚀+Building+Modern+Apps" />
 </h1>
 
-<!-- 👇 Banner Image -->
+<!-- Banner -->
 <p align="center">
   <img src="./banner.png" alt="PREM015 GitHub Banner" style="width: 75%; height: auto; object-fit: cover; border-radius: 20px;" />
 </p>
@@ -18,17 +18,18 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm **PREM015**, a Full-Stack Developer who codes with ❤️ using **JavaScript** and **Python**.
+I'm **PREM015**, a Full-Stack Developer passionate about building high-quality apps with ❤️ using **JavaScript**, **Python**, and modern web technologies.
 
 ---
 
 ## 🌟 Highlights
 
-- 🎓 Diploma Holder — Always learning and building things  
-- ⚡ Passionate about **tech, games, and clean code**  
+- 🎓 Diploma Holder — Always learning & building  
+- ⚡ Passionate about **tech, gaming, and clean code**  
 - 🌍 Developer by profession, creator by passion  
+ 
 
 ---
 
@@ -82,50 +83,33 @@ I'm **PREM015**, a Full-Stack Developer who codes with ❤️ using **JavaScript
 
 ---
 
-## 📚 Tech Stack Breakdown
-
-### 🔧 Development
-- 🖥️ **IDE**: VS Code, PyCharm  
-- 🌿 **Version Control**: Git + GitHub  
-- 📦 **Package Managers**: npm, pip  
-- 🏗️ **Build Tools**: Vite, Webpack, Next.js  
-- 🐳 **Containerization**: Docker  
-- 🚀 **CI/CD**: Vercel, GitHub Actions  
-
-### 📦 Libraries / Frameworks
-- 💻 **Frontend**: React, Next.js, Tailwind CSS, MUI, Headless UI  
-- ⚙️ **Backend**: Node.js, Express, Django, Flask, Prisma  
-- 🗄️ **Database**: MongoDB, PostgreSQL, MySQL, SQLite, Supabase  
-- 🔐 **Authentication**: JWT, OAuth 2.0, Google Auth  
-
----
-
-## 💼 Work & Freelance Experience
+## 💼 Work & Freelance
 
 ### 🧑‍💻 Freelance Developer | Remote
-- 🏗️ Built full-stack apps using **React**, **Next.js**, **Node.js**, and **MongoDB**  
-- ⚡ Created REST APIs and interactive UIs; deployed on **Vercel**, **Render**, and more.  
-- 🚀 Delivered real-world apps focused on performance, design, and user experience.  
+- 🏗️ Built full-stack apps with **React**, **Next.js**, **Node.js**, **MongoDB**  
+- ⚡ Created REST APIs and interactive UIs; deployed on **Vercel** & **Render**  
+- 🚀 Delivered real-world apps with focus on **performance & UI/UX**  
 
 ---
 
-## 🔭 Currently Exploring
+## 🔭 Exploring & Learning
 
-- 📘 **TypeScript** — for scalable frontend and backend systems  
-- 🔐 **OAuth 2.0** — advanced security, session & token management  
-- ☁️ **Cloud Platforms** — AWS, Firebase, Netlify deployments  
-- 🧱 **System Design** — high-level architectural patterns and best practices  
-- 🤖 **Machine Learning** — integrating AI/ML into fullstack apps  
+- 📘 **TypeScript** — Scalable frontend & backend  
+- 🔐 **OAuth 2.0** — Advanced security & session management  
+- ☁️ **Cloud Platforms** — AWS, Firebase, Netlify  
+- 🧱 **System Design** — High-level architecture  
+- 🤖 **Machine Learning & AI** integration  
+- 🦀 **Rust/Go** for backend performance  
 
 ---
 
 ## 🚧 Featured Projects
 
 [![Codetracter](https://img.shields.io/badge/Codetracter-Fullstack-blue?style=for-the-badge)](https://github.com/PREM015/c-o-d-e-t-r-a-c-k-e-r)  
-_Code Tracker App for organizing coding practice and projects_
+_Code Tracker App to organize coding practice & projects_
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Next.js-green?style=for-the-badge)](https://github.com/PREM015/portfolio)  
-_Next.js + Tailwind CSS powered developer portfolio_
+_Modern portfolio with Next.js & Tailwind CSS_
 
 ---
 
@@ -138,21 +122,21 @@ _Next.js + Tailwind CSS powered developer portfolio_
 
 ## 🤝 Let's Collaborate!
 
-I'm open to working together on:  
+Open to:  
 - 🚀 Open Source Projects  
 - 🧠 Python Automation  
-- 🌐 Full-stack Web Applications  
+- 🌐 Full-Stack Web Applications  
 
-📬 Connect on [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302)  
-📧 Mail me at: [email](mailto:12345678+PREM015@users.noreply.github.com)
+📬 [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302)  
+📧 [Email](mailto:152625984+PREM015@users.noreply.github.com)  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F35626&icon_color=F35626" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F35626" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 ---
@@ -165,32 +149,9 @@ I'm open to working together on:
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=tokyonight&hide_border=true&background=0D1117&stroke=F35626&ring=F35626&fire=F35626&currStreakLabel=F35626" />
-</p>
-
----
-
-## 🐍 Snake Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PREM015/PREM015/output/snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🎯 Next Learning Goals
-- 🤖 Machine Learning + AI Integration  
-- ☁️ AWS & Cloud Native Development  
-- 🔐 Advanced System Design & Scalability  
-- 🦀 Learn Rust or Go for backend performance  
-
----
-
 ## ☕ Support Me
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%98%8A-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee." />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%98%8A-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee" />
   </a>
 </p>
