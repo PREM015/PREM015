@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F35626&width=435&lines=Full-Stack+Developer;JavaScript+%7C+Python+%7C+TypeScript;Next.js+%7C+React+%7C+Tailwind;System+Design+%7C+DevOps+Learner;Traveller+%7C+Gamer+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F35626&width=550&lines=Full-Stack+Developer;JavaScript+%7C+Python+%7C+TypeScript;Next.js+%7C+React+%7C+Tailwind;System+Design+%7C+DevOps+Learner;Traveller+%7C+Gamer+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,7 +19,9 @@ Always curious, I balance building **modern web apps** with exploring **cloud & 
 
 ---
 
-## 🌟 Highlights
+<p align="center">
+  <img src="https://img.shields.io/badge/✨%20Highlights-FF6B6B,FFD93D?style=for-the-badge&logoColor=white&labelColor=000000&color=FF6B6B" />
+</p>
 
 - 🎓 **Diploma Holder** — Constant learner, exploring advanced tech every day  
 - ⚡ Love crafting **scalable, clean, and efficient apps**  
@@ -76,7 +78,9 @@ Always curious, I balance building **modern web apps** with exploring **cloud & 
 
 ---
 
-## 📚 Tech Stack Breakdown
+<p align="center">
+  <img src="https://img.shields.io/badge/📚%20Tech%20Stack%20Breakdown-4facfe,00f2fe?style=for-the-badge&logoColor=white&labelColor=000000&color=4facfe" />
+</p>
 
 ### 🔧 Development
 - 🖥️ **IDE**: VS Code, PyCharm  
@@ -86,7 +90,10 @@ Always curious, I balance building **modern web apps** with exploring **cloud & 
 - 🐳 **Containerization**: Docker  
 - 🚀 **CI/CD**: Vercel, Netlify, Firebase Hosting  
 
-### 📦 Libraries / Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/📦%20Libraries%20%2F%20Frameworks-43e97b,38f9d7?style=for-the-badge&logoColor=white&labelColor=000000&color=43e97b" />
+</p>
+
 - 💻 **Frontend**: React, Next.js, Tailwind CSS, MUI, Headless UI  
 - ⚙️ **Backend**: Node.js, Express, Django, Flask  
 - 🗄️ **Database**: MongoDB, PostgreSQL, MySQL, SQLite  
@@ -94,7 +101,9 @@ Always curious, I balance building **modern web apps** with exploring **cloud & 
 
 ---
 
-## 💼 Work & Freelance Experience
+<p align="center">
+  <img src="https://img.shields.io/badge/💼%20Work%20%26%20Freelance%20Experience-f7971e,ffd200?style=for-the-badge&logoColor=white&labelColor=000000&color=f7971e" />
+</p>
 
 ### 🧑‍💻 Freelance Developer | Remote
 - Built full-stack apps using **React**, **Next.js**, **Node.js**, and **MongoDB**  
@@ -124,7 +133,9 @@ Always curious, I balance building **modern web apps** with exploring **cloud & 
 
 ---
 
-## 🤝 Let's Collaborate!
+<p align="center">
+  <img src="https://img.shields.io/badge/🤝%20Let's%20Collaborate!-8E2DE2,4A00E0?style=for-the-badge&logoColor=white&labelColor=000000&color=8E2DE2" />
+</p>
 
 I'm open to working together on:
 - 🚀 Open Source Projects  
@@ -140,16 +151,8 @@ I'm open to working together on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=radical&hide_border=false" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PREM015&theme=radical&no-bg=true&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B6B&icon_color=FFD93D&text_color=E5E5E5&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&text_color=E5E5E5&bg_color=0D1117" />
 </p>
 
 ---
@@ -157,7 +160,15 @@ I'm open to working together on:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=tokyonight-duo&hide_border=true&ring=FF6B6B&fire=FFD93D&currStreakLabel=00F2FE&sideLabels=43E97B&background=0D1117" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PREM015&theme=onestar&margin-w=10&margin-h=10&no-bg=true&no-frame=true&row=1" />
 </p>
 
 ---
