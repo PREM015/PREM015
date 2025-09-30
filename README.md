@@ -7,35 +7,28 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F35626&width=435&lines=Full-Stack+Developer;JavaScript+%7C+Python+%7C+React;Traveller+%7C+Gamer+%7C+Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
-<!-- Tech Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F35626&width=550&lines=Full-Stack+Developer;JavaScript+%7C+Python+%7C+TypeScript;Next.js+%7C+React+%7C+Tailwind;System+Design+%7C+DevOps+Learner;Traveller+%7C+Gamer+%7C+Open+Source+Contributor." alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with ❤️ using **JavaScript** and **Python**.
+I'm **PREM015**, a **Full-Stack Developer** who codes with ❤️ using **JavaScript**, **Python**, and **TypeScript**.  
+Always curious, I balance building **modern web apps** with exploring **cloud & DevOps** while being a passionate traveller.
 
 ---
 
-## 🌟 Highlights
+<p align="center">
+  <img src="https://img.shields.io/badge/✨%20Highlights-FF6B6B,FFD93D?style=for-the-badge&logoColor=white&labelColor=000000&color=FF6B6B" />
+</p>
 
-- 🎓 Diploma Holder — Always learning and building things 
-- ⚡ Passionate about **tech, games, and clean code**  
-- 🌍 Traveler by heart, developer by profession
-
+- 🎓 **Diploma Holder** — Constant learner, exploring advanced tech every day  
+- ⚡ Love crafting **scalable, clean, and efficient apps**  
+- 🌍 **Traveller by heart**, **developer by profession**  
+- 🏗️ Exploring **System Design** & **Cloud Platforms (AWS, Firebase, Netlify)**  
 
 ---
-
 
 ## 🛠️ Skills & Technologies
 
@@ -46,6 +39,7 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 </p>
 
 ### 🎨 Frontend
@@ -79,43 +73,53 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ---
 
-## 📚 Tech Stack Breakdown
+<p align="center">
+  <img src="https://img.shields.io/badge/📚%20Tech%20Stack%20Breakdown-4facfe,00f2fe?style=for-the-badge&logoColor=white&labelColor=000000&color=4facfe" />
+</p>
 
 ### 🔧 Development
 - 🖥️ **IDE**: VS Code, PyCharm  
 - 🌿 **Version Control**: Git + GitHub  
-- 📦 **Package Managers**: npm, pip  
+- 📦 **Package Managers**: npm, pip, yarn  
 - 🏗️ **Build Tools**: Vite, Webpack, Next.js  
 - 🐳 **Containerization**: Docker  
-- 🚀 **CI/CD**: Vercel  
+- 🚀 **CI/CD**: Vercel, Netlify, Firebase Hosting  
 
-### 📦 Libraries / Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/📦%20Libraries%20%2F%20Frameworks-43e97b,38f9d7?style=for-the-badge&logoColor=white&labelColor=000000&color=43e97b" />
+</p>
+
 - 💻 **Frontend**: React, Next.js, Tailwind CSS, MUI, Headless UI  
 - ⚙️ **Backend**: Node.js, Express, Django, Flask  
 - 🗄️ **Database**: MongoDB, PostgreSQL, MySQL, SQLite  
-- 🔐 **Authentication**: JWT, OAuth (Google login)  
+- 🔐 **Authentication**: JWT, OAuth 2.0 (Google, GitHub login)  
 
 ---
 
-## 💼 Work & Freelance Experience
+<p align="center">
+  <img src="https://img.shields.io/badge/💼%20Work%20%26%20Freelance%20Experience-f7971e,ffd200?style=for-the-badge&logoColor=white&labelColor=000000&color=f7971e" />
+</p>
 
 ### 🧑‍💻 Freelance Developer | Remote
-- 🏗️ Built full-stack apps using **React**, **Next.js**, **Node.js**, and **MongoDB**  
-- ⚡ Created REST APIs and interactive UIs; deployed on **Vercel**, **Render**, and more. 
-- 🚀 Delivered real-world apps focused on performance, design, and user experience.  
+- Built full-stack apps using **React**, **Next.js**, **Node.js**, and **MongoDB**  
+- Designed and deployed REST & GraphQL APIs with **JWT/OAuth security**  
+- Hands-on with **CI/CD pipelines** on **Vercel, Render, Netlify**  
+- Delivered client apps with focus on **performance, clean design & UX**  
 
 ---
 
 ## 🔭 Currently Exploring
 
-- 📘 **TypeScript** — for scalable frontend and backend systems  
-- 🔐 **OAuth 2.0** — web security, session & token management  
-- ☁️ **Cloud Platforms** — AWS, Firebase, Netlify deployments  
-- 🧱 **System Design** — high-level architectural patterns and best practices  
+- 📘 **TypeScript** for scalable systems  
+- 🔐 **OAuth 2.0 & Security Best Practices**  
+- ☁️ **Cloud Platforms** (AWS, Firebase, Netlify)  
+- 🧱 **System Design** — High-level architecture & microservices  
+- 💎 **Ruby** — Exploring scripting & integrations in new projects  
 
 ---
 
@@ -129,32 +133,26 @@ I'm **PREM015**, a Full-Stack Developer & passionate Traveller who codes with �
 
 ---
 
-## 🤝 Let's Collaborate!
+<p align="center">
+  <img src="https://img.shields.io/badge/🤝%20Let's%20Collaborate!-8E2DE2,4A00E0?style=for-the-badge&logoColor=white&labelColor=000000&color=8E2DE2" />
+</p>
 
 I'm open to working together on:
 - 🚀 Open Source Projects  
-- 🧠 Python Automation  
+- 🧠 Python & Ruby Automation  
 - 🌐 Full-stack Web Applications  
+- ☁️ Cloud Deployments & System Design  
 
 📬 Connect on [LinkedIn](https://www.linkedin.com/in/prem-r-2655a3302)  
 📧 Mail me at: [email](mailto:12345678+PREM015@users.noreply.github.com)
-
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=radical&hide_border=false" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PREM015&theme=radical&no-bg=true&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B6B&icon_color=FFD93D&text_color=E5E5E5&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&text_color=E5E5E5&bg_color=0D1117" />
 </p>
 
 ---
@@ -162,13 +160,20 @@ I'm open to working together on:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=tokyonight-duo&hide_border=true&ring=FF6B6B&fire=FFD93D&currStreakLabel=00F2FE&sideLabels=43E97B&background=0D1117" />
 </p>
 
 ---
 
-## ☕ Support Me
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PREM015&theme=onestar&margin-w=10&margin-h=10&no-bg=true&no-frame=true&row=1" />
+</p>
+
+---
+
+## ☕ Support Me.
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%98%8A-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee." />
