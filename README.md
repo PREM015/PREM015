@@ -160,8 +160,9 @@ I'm open to working together on:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PREM015&theme=tokyonight-duo&hide_border=true&ring=FF6B6B&fire=FFD93D&currStreakLabel=00F2FE&sideLabels=43E97B&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=PREM015&theme=tokyonight-duo&hide_border=true" />
 </p>
+
 
 ---
 
