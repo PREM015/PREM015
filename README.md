@@ -9,7 +9,7 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=500&color=F35626,FF6B6B,FFD93D&center=true&vCenter=true&width=900&lines=👋 Hello World!;I'm PREM015 💻;Full-Stack Developer ⚡;Cloud | DevOps Learner ☁️;Traveller 🌍 | Gamer 🎮 | Creator 🚀" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=900&lines=👋+Hello+World!;I'm+PREM015+💻;Full-Stack+Developer+⚡;Cloud+%7C+DevOps+Learner+☁️;Traveller+🌍+%7C+Gamer+🎮+%7C+Creator+🚀" alt="Typing Intro" />
 </h1>
 
 <!-- Banner Image -->
