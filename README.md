@@ -134,7 +134,7 @@
 ## 🔥 Streaks & Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PREM015&theme=radical&hide_border=true" height="150em"/>
+  <img src="https://streak-stats.demolab.com/?user=PREM015&theme=radical&hide_border=true" height="150em"/>
 </p>
 
 <p align="center">
