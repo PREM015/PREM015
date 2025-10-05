@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/💻-FullStack-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/☁️-DevOps-00BFFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🧠-AI_&_ML-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🪙-Web3-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌍-Traveller-32CD32?style=for-the-badge" />
+
+  
 </p>
 
 ---
