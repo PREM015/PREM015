@@ -1,51 +1,56 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
   <defs>
-    <!-- Define multiple color stops for gradients -->
+    <!-- Dynamic infinite hue rotation gradient -->
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="hsl(0,80%,60%)">
+      <stop offset="0%" stop-color="hsl(0, 80%, 60%)">
         <animate attributeName="stop-color"
                  values="
-                 hsl(200,80%,50%);hsl(340,80%,60%);
-                 hsl(100,80%,50%);hsl(200,80%,50%)"
-                 dur="10s" repeatCount="indefinite"/>
+                 hsl(0,80%,60%);
+                 hsl(60,80%,60%);
+                 hsl(120,80%,60%);
+                 hsl(180,80%,60%);
+                 hsl(240,80%,60%);
+                 hsl(300,80%,60%);
+                 hsl(360,80%,60%);
+                 hsl(0,80%,60%)"
+                 dur="15s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="hsl(60,80%,60%)">
+
+      <stop offset="100%" stop-color="hsl(180,80%,60%)">
         <animate attributeName="stop-color"
                  values="
-                 hsl(320,80%,60%);hsl(50,80%,60%);
-                 hsl(160,80%,60%);hsl(320,80%,60%)"
-                 dur="10s" repeatCount="indefinite"/>
+                 hsl(180,80%,60%);
+                 hsl(240,80%,60%);
+                 hsl(300,80%,60%);
+                 hsl(360,80%,60%);
+                 hsl(60,80%,60%);
+                 hsl(120,80%,60%);
+                 hsl(180,80%,60%)"
+                 dur="15s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
-
-    <!-- Define a pattern to switch between solid and gradient -->
-    <rect id="solid-bg" width="1200" height="300" fill="hsl(210,80%,55%)">
-      <animate attributeName="fill"
-               values="
-               hsl(210,80%,55%);
-               url(#grad);
-               hsl(210,80%,55%);
-               url(#grad)"
-               dur="20s"
-               repeatCount="indefinite"/>
-    </rect>
   </defs>
 
-  <!-- Background rectangle -->
-  <rect width="1200" height="300" rx="50" ry="50" fill="url(#grad)"/>
+  <!-- Animated background rectangle -->
+  <rect width="1200" height="300" rx="50" ry="50" fill="url(#grad)">
+    <animate attributeName="opacity" values="1;0.95;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
 
-  <!-- Main text -->
-  <text x="50%" y="120" text-anchor="middle" font-size="70" font-family="Montserrat, sans-serif" 
-        fill="white">
+  <!-- Main title -->
+  <text x="50%" y="120" text-anchor="middle" font-size="70" font-family="Montserrat, sans-serif"
+        fill="white" font-weight="700" letter-spacing="3">
     PREM015
   </text>
 
   <!-- Subtitle -->
-  <text x="50%" y="180" text-anchor="middle" font-size="28" font-family="Montserrat, sans-serif" 
-        fill="white">
-    Full-Stack Developer ⚡ | DevOps Explorer ☁️
+  <text x="50%" y="180" text-anchor="middle" font-size="26" font-family="Montserrat, sans-serif"
+        fill="white" opacity="0.9">
+    Full-Stack Developer ⚡ | DevOps Explorer ☁️ 
   </text>
 
-  <!-- Optional subtle wave under text -->
-  <path d="M0,220 C300,280 900,160 1200,220 L1200,300 L0,300 Z" fill="url(#grad)" opacity="0.25"/>
+  <!-- Subtle animated wave -->
+  <path d="M0,220 C300,280 900,160 1200,220 L1200,300 L0,300 Z" fill="url(#grad)" opacity="0.25">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+                      values="0,0; -50,0; 0,0" dur="10s" repeatCount="indefinite"/>
+  </path>
 </svg>
