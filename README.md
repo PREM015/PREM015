@@ -1,5 +1,5 @@
 <!-- =============================== -->
-<!-- PREM015 GitHub README (Upgraded Full Skill Version) -->
+
 <!-- =============================== -->
 
 
@@ -8,7 +8,7 @@
   <img src="./assets/header.svg" width="100%" alt="Header Banner"/>
 </p>
 
-<!-- Typing Animation (WORKING) -->
+<!-- Typing Animation  -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=700&color=00FFFF&center=true&vCenter=true&width=850&lines=👋+Hello+World!;I'm+PREM015+💻;Full-Stack+Developer;DevOps+%20+Cloud+Engineer;☁️Traveller+🌍+%7C+Gamer+🎮" alt="Typing Intro"/>
 </h1>
