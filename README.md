@@ -147,7 +147,7 @@
 ## ☕ Support My Work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/☕-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  <a href="https://buymeacoffee.com/premdev" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="60">
   </a>
 </p>
