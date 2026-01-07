@@ -130,8 +130,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=dark" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=dark" height="180em"/>
 </p>
 
 ---
@@ -142,8 +142,9 @@
   <img src="https://streak-stats.demolab.com/?user=prem015&theme=ocean-dark" height="150em"/>
 </p>
 
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prem015&theme=radical&no-frame=true&column=6&margin-w=15&margin-h=15" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PREM015&theme=flat&no-frame=true&column=6" width="90%"/>
 </p>
 
 ---
@@ -155,5 +156,6 @@
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="60">
   </a>
 </p>
+
 
 
