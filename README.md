@@ -130,8 +130,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PREM015&show_icons=true&theme=dark" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM015&layout=compact&theme=dark" height="180em"/>
+  <img src="https://gh-readme-profile.vercel.app/api?username=prem015&theme=ambient-gradient&border_width=0&border_radius=0" height="180em"/>
+
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=prem015&type=languages&theme=github&chart=donut" height="180em"/>
 </p>
 
 ---
@@ -144,7 +145,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PREM015&theme=flat&no-frame=true&column=6" width="90%"/>
+  <img src="https://github-trophies.vercel.app/?username=prem015&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="90%"/>
 </p>
 
 ---
