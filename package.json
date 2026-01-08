@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "create-nextjs-backend": "^2.0.2"
+  }
+}
